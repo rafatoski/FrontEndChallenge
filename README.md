@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# Rafael Castillo | Front End Designer Test at BingeWave |  WorkAdventure Clone 
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
