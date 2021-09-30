@@ -219,6 +219,17 @@
                  "y":95
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"allowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"url",
+                 "type":"string",
+                 "value":"www.google.com.co"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
