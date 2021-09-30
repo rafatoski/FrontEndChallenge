@@ -195,7 +195,29 @@
          "draworder":"topdown",
          "id":42,
          "name":"URL",
-         "objects":[],
+         "objects":[
+                {
+                 "height":112,
+                 "id":16,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"allowApi",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"www.google.com.co"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":138,
+                 "x":785,
+                 "y":95
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -203,7 +225,7 @@
          "y":0
         }],
  "nextlayerid":43,
- "nextobjectid":16,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "properties":[
         {
