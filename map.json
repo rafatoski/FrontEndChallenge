@@ -195,7 +195,24 @@
          "draworder":"topdown",
          "id":42,
          "name":"URL",
-         "objects":[],
+         "objects":[
+                {
+                 "height":125.333333333333,
+                 "id":15,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"videoTrigger",
+                         "type":"string",
+                         "value":"disparador"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":95.3333333333333,
+                 "y":32.6666666666667
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -203,7 +220,7 @@
          "y":0
         }],
  "nextlayerid":43,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
